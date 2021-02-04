@@ -1,3 +1,6 @@
+#Juan José Ramirez Cala - Estudiante 1
+#Santiago Pardo Morales - Estudiante 2
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
