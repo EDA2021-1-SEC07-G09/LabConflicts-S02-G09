@@ -1,7 +1,3 @@
-Estudiante 1 = Juan Jose Ramirez Cala
-
-Estudiante 2 = Santiago Pardo Morales
-
 
 #ISIS1225 - Estructura de un proyecto
 
